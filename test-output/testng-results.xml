@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29237" started-at="2019-03-12T13:31:19Z" finished-at="2019-03-12T13:31:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29237" started-at="2019-03-12T13:31:19Z" finished-at="2019-03-12T13:31:48Z">
+      <class name="scripts.Caso_001_Iniciar_sesion_en_SV_personas">
+        <test-method status="PASS" signature="ingresoPlataforma()[pri:0, instance:scripts.Caso_001_Iniciar_sesion_en_SV_personas@61832929]" name="ingresoPlataforma" duration-ms="10601" started-at="2019-03-12T13:31:19Z" finished-at="2019-03-12T13:31:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ingresoPlataforma -->
+        <test-method status="PASS" signature="ingresoPlataformaLogin()[pri:1, instance:scripts.Caso_001_Iniciar_sesion_en_SV_personas@61832929]" name="ingresoPlataformaLogin" duration-ms="12280" started-at="2019-03-12T13:31:29Z" finished-at="2019-03-12T13:31:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ingresoPlataformaLogin -->
+        <test-method status="PASS" signature="cerrarBrowser()[pri:2, instance:scripts.Caso_001_Iniciar_sesion_en_SV_personas@61832929]" name="cerrarBrowser" duration-ms="6306" started-at="2019-03-12T13:31:42Z" finished-at="2019-03-12T13:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarBrowser -->
+      </class> <!-- scripts.Caso_001_Iniciar_sesion_en_SV_personas -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

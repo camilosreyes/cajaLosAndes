@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="scripts.Caso_001_Iniciar_sesion_en_SV_personas">
+        <methods>
+          <include name="ingresoPlataformaLogin"/>
+          <include name="ingresoPlataforma"/>
+          <include name="cerrarBrowser"/>
+        </methods>
+      </class> <!-- scripts.Caso_001_Iniciar_sesion_en_SV_personas -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
